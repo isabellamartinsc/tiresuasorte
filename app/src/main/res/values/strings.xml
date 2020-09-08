@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tire Sua Sorte!</string>
+    <string-array name="frases">
+        <item>A persistência é o caminho do êxito.</item>
+        <item>A distância que separa seus sonhos da realidade, é do mesmo tamanho da sua paciência e força de vontade.</item>
+        <item>A vida é uma peça de teatro que não permite ensaios. Por isso, cante, chore, dance, ria e viva intensamente, antes que a cortina se feche e a peça termine sem aplausos.</item>
+        <item>Na nossa vida diária, devemos ver que não é a felicidade que nos faz agradecidos, mas a gratidão é que nos faz felizes..</item>
+        <item>Ninguém pode vencer por você, acredite, só você pode derrubar os obstáculos que surgem no seu caminho.</item>
+        <item>Nenhum obstáculo será tão grande se sua vontade de vencer for maior..</item>
+    </string-array>
+</resources>
